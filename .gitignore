@@ -1,0 +1,14 @@
+__pycache__/*
+BackgroundVideos/*
+OutputVideos/*
+Screenshots/*
+Voiceovers/*
+Lib/*
+Scripts/*
+metadata.json
+pyvenv.cfg
+client_secrets.json
+geckodriver.log
+config.ini
+.venv
+youtube.py
