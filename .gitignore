@@ -12,3 +12,5 @@ geckodriver.log
 config.ini
 .venv
 youtube.py
+bin/
+.vscode/
