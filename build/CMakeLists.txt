@@ -7,7 +7,7 @@ project(RedditGen NONE)
 set(PARENT_DIR ${CMAKE_SOURCE_DIR}/..)
 
 # Create directories
-file(MAKE_DIRECTORY ${PARENT_DIR}/BackgoundVideos)
+file(MAKE_DIRECTORY ${PARENT_DIR}/BackgroundVideos)
 file(MAKE_DIRECTORY ${PARENT_DIR}/OutputVideos)
 file(MAKE_DIRECTORY ${PARENT_DIR}/Screenshots)
 file(MAKE_DIRECTORY ${PARENT_DIR}/Voiceovers)
