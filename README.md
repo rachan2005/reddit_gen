@@ -62,6 +62,7 @@ cd reddit_gen
      cd build
      cmake .
      cmake --build . --target RunCommands
+     cd ..
      ```
 
    - This will create the necessary directories and duplicate the [`config.example.ini`](config.example.ini ) file to [`config.ini`](config.ini ).
