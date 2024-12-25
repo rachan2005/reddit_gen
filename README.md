@@ -59,10 +59,9 @@ cd reddit_gen
 1. **Create Build Directory and Run CMake**:
    - Open a terminal in the project directory and run the following commands:
      ```sh
-     mkdir build
      cd build
-     cmake ..
-     cmake --build .
+     cmake .
+     cmake --build . --target RunCommands
      ```
 
    - This will create the necessary directories and duplicate the [`config.example.ini`](config.example.ini ) file to [`config.ini`](config.ini ).
